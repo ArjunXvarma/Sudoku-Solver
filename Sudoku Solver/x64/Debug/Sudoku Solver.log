@@ -1,2 +1,24 @@
 ﻿  main.cpp
+C:\Users\arj15\OneDrive\Desktop\Programs\C++\Sudoku Solver\Sudoku Solver\main.cpp(74,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\arj15\OneDrive\Desktop\Programs\C++\Sudoku Solver\Sudoku Solver\main.cpp(74,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\arj15\OneDrive\Desktop\Programs\C++\Sudoku Solver\Sudoku Solver\main.cpp(104,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\arj15\OneDrive\Desktop\Programs\C++\Sudoku Solver\Sudoku Solver\main.cpp(107,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\arj15\OneDrive\Desktop\Programs\C++\Sudoku Solver\Sudoku Solver\main.cpp(126,66): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\arj15\OneDrive\Desktop\Programs\C++\Sudoku Solver\Sudoku Solver\main.cpp(126,46): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
   Sudoku Solver.vcxproj -> C:\Users\arj15\OneDrive\Desktop\Programs\C++\Sudoku Solver\x64\Debug\Sudoku Solver.exe
